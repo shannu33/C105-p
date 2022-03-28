@@ -1,0 +1,19 @@
+.heading {
+width: 80%;
+font-size: 22px;
+}
+.name_of_objects
+{
+    color:yellow;
+}
+#camara {
+border:2px dashed black;
+width:350px;
+height:300px;
+}
+.name_of_objects, #result_object_name , #result_object_accuracy { 
+    color: yellow; }
+    body{
+        background-image: url("family.jpg");
+        background-color: plum;
+    }
